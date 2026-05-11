@@ -6,7 +6,9 @@ Experimentación con grafos en un análisis de datos psicológicos. Repositorio 
 
 Construir y analizar una red multicapa de síntomas de salud mental con aristas dirigidas, usando datos reales.
 
-La red multicapa con dirección es un paso más allá del análisis de co-ocurrencia estándar. Permite explorar qué constructos actúan estadísticamente como nodos muy influyentes, pudiendo proponer jerarquías entre procesos psicológicos. ** Este trabajo solo tiene carácter pedagógico ya que los datos transversales no permiten confirmar la estructura causal que pretende la jerarquía de influencia entre nodos **.
+La red multicapa con dirección es un paso más allá del análisis de co-ocurrencia estándar. Permite explorar qué constructos actúan estadísticamente como nodos muy influyentes, pudiendo proponer jerarquías entre procesos psicológicos. 
+
+**Este trabajo solo tiene carácter pedagógico ya que los datos transversales no permiten confirmar la estructura causal que pretende la jerarquía de influencia entre nodos**.
 
 # Dataset
 
